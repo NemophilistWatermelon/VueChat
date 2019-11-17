@@ -3,7 +3,7 @@
 
 - 聊天界面主图
 
-![1573960116752](C:\Users\Kevin\Desktop\项目\基于聊天App的网页应用\VueChat\1573960116752.png)
+![image](https://github.com/Keviniswhite/gitMdimages/1573960116752.png)
 
 - 所用到的内容
 
