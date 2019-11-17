@@ -3,7 +3,7 @@
 
 - 聊天界面主图
 
-![image](https://github.com/Keviniswhite/gitMdimages/1573960116752.png)
+![image](https://raw.githubusercontent.com/Keviniswhite/VueChat/master/gitMdimages/1573960116752.png)
 
 - 所用到的内容
 
